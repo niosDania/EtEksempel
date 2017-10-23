@@ -4,7 +4,7 @@
 
 body {
     font-family: sans-serif;
-    background-color: #aa0202;
+    background-color: #909090;
     margin: 1em;
 }
 
@@ -20,7 +20,7 @@ h1 {
 }
 
 #logoet {
-    max-width: 98%;
+    max-width: 80%;
 }
 
 .brodtekst {
